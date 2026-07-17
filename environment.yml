@@ -230,4 +230,3 @@ dependencies:
       - typer==0.25.1
       - ultralytics==8.4.83
       - ultralytics-thop==2.0.20
-prefix: /home/cheng/miniconda3/envs/disease_tree_recognition
