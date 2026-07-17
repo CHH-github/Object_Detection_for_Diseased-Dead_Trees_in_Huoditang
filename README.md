@@ -25,7 +25,7 @@
     > conda install <库1> <库2>
 * **重要补充**：如需安装带cuda的Pytorch
     首先通过nvidia-smi命令在cmd查询电脑支持的最高cuda版本
-    在\'https://pytorch.org/\'下载cuda
+    在 https://pytorch.org/ 下载cuda
 
 ## 三、代码简介及项目结构
 - `input_images/`：存放待检测的原始无人机遥感影像。
