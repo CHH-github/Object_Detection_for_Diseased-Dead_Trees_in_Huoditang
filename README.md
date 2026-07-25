@@ -21,7 +21,7 @@
     > conda env create -f environment.yml
 * 手动配置环境，会用到的命令
     > conda create -n <conda环境命名> python=3.12\
-    > conda activate <conda环境名称>
+    > conda activate <conda环境名称>\
     > conda install <库1> <库2>
 * **重要补充**：如需安装带cuda的Pytorch
     首先通过nvidia-smi命令在cmd查询电脑支持的最高cuda版本
